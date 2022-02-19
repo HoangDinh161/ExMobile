@@ -1,2 +1,2 @@
 # ExMobile
-All exercises in Mobile subject
+Exercises in Mobile Course
