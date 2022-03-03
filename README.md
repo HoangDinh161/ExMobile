@@ -6,4 +6,5 @@ Giới thiệu về Flutter framework (giới thiệu chung, đưa ra các tính
 Hướng dẫn tải và cài đặt môi trường.
 ![alt-text](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson2.png)
 ## Lesson 3
+Tạo ứng dụng flutter đầu tiên: Hello World.
 ![alt-text](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson3.png)
