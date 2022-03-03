@@ -21,15 +21,16 @@ class MyHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(this.title),
-      ),
-      body: Center(
-          child:
-          Text(
-            'Hello World',
-          )
+    return Container(
+      decoration: const BoxDecoration(color: Colors.greenAccent),
+      padding: const EdgeInsets.all(30),
+      child: const Center(
+        child: Text(
+          'Hi there', style: TextStyle(
+          color: Colors.blue, letterSpacing: 0.5, fontSize: 35,
+        ),
+          textDirection: TextDirection.ltr,
+        ),
       ),
     );
   }
