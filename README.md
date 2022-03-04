@@ -38,3 +38,11 @@ __Demo Gesture: Alert Message:__
 
 ![image](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson8.png)
 
+## Lesson 9
+__Quản lý State__
+
+## Lesson 10
+__State ngắn hạn StatefulWidget__:
+
+![image](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson10.png)
+
