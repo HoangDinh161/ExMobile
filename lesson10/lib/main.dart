@@ -53,7 +53,7 @@ class MyHomePage extends StatelessWidget {
             image: "pixel1.jpg",
           ),
           ProductBox(
-            name: "laptop",
+            name: "Laptop",
             description: "laptop is the most productive development tool",
             price: 2000 ,
             image: "laptop.jpg",
