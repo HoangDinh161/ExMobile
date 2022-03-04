@@ -23,3 +23,18 @@ Widget trong Flutter
 - __Sử dụng Icon__
 
   ![icon](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson6_2.png)
+
+## Lesson 7
+- __Single Child Widget:__
+
+![image](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson7.1.png)
+
+- __Multi Child Widget:__
+
+![imag](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson7.2.png)
+
+## Lesson 8
+__Demo Gesture: Alert Message:__
+
+![image](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson8.png)
+
