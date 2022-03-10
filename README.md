@@ -46,3 +46,13 @@ __State ngắn hạn StatefulWidget__:
 
 ![image](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson10.png)
 
+## Lesson 11
+__ScopedModel__
+
+![image](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson11.png)
+
+## Lesson 12
+__Navigator&Routing__
+
+![image](https://github.com/HoangDinh161/ExMobile/blob/main/img/lesson12.png)
+
